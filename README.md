@@ -2,7 +2,8 @@
 
 A short description about the project and/or client.
 
-## Getting Started
+## Task 2
+click the fork button and rename the forked repository to avoid confusion ![Alt text](https://www.gitkraken.com/wp-content/uploads/2021/11/github-how-to-fork-button-github-1024x385.png)
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
