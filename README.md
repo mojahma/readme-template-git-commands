@@ -1,6 +1,8 @@
 # Hands-On Assignment: Git, GitHub, And Open Source Exploration
 
-A short description about the project and/or client.
+## Task 1
+
+Cloned a repository using ```git clone https://github.com/me-and-company/readme-template.git``` command
 
 ## Getting Started
 
