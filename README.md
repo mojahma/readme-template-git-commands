@@ -83,7 +83,7 @@ and switch to the new banch using
 
   ### Challenge faced 
 
-  * I had problems but the git documentation came to the resque
+  * I had problems but the git documentation came to the rescue
 
 
 
